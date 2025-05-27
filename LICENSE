@@ -1,8 +1,40 @@
-The MIT License (MIT)
-Copyright © 2025 <copyright holders>
+WJM-Studio 开源软件协议​
+​版本 1.0​
+​1. 定义​
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+​​“软件”​​：指由WJM-Studio开发并公开在GitHub等平台上的源代码及相关文件。
+​​“原名字”​​：指软件在GitHub仓库中官方标注的名称（如 project-name）。
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+​2. 授予权利​
+在遵守以下条款的前提下，授予全球范围内免费的、非排他性的许可：
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+​使用​：可自由下载、复制、修改软件。
+​分发​：可重新分发软件或修改后的版本，但必须附带本协议全文。
+
+​3. 限制条款​
+
+
+​署名要求​：
+
+若分发原始未修改的软件，​必须保留所有原始版权声明​（如代码文件头部的作者信息）。
+若分发修改后的版本，​不得暗示修改版由WJM-Studio官方维护。
+
+
+
+​命名限制​：
+
+​禁止在原名字基础上添加“官方版”“手机版”“认证版”等可能误导用户认为与WJM-Studio有关联的修饰词（例如：project-name手机版 ❌）。
+修改版名称需明确区分（如 project-name-mod 或 fork-project-name ✅）。
+
+
+
+​商业用途​：
+
+​禁止将软件或衍生版本用于任何商业目的，包括但不限于销售、付费订阅、广告盈利等。
+
+
+
+​4. 免责声明​
+​软件按“原样”提供，不承诺任何明示或暗示的保证，包括但不限于稳定性、适用性、安全性。使用者需自行承担风险，WJM-Studio不对因使用软件导致的任何直接或间接损失负责。
+​5. 协议变更​
+WJM-Studio保留在不通知的情况下修改本协议的权利，修改后的协议对后续使用生效。
